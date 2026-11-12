@@ -25,7 +25,7 @@ from PyQt6.QtWidgets import (
 PASSWORD = "mrontop"
 VANITY = "discord.gg/mrontop"
 CREDIT = "Made By @se7iest"
-ICON_FILE = "a_3f1eff236929dc9d1d7c458c35ba3960.webp"
+ICON_FILE = "icon.webp"
 
 
 def icon_path():
