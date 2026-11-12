@@ -24,5 +24,5 @@ A high-fidelity, frameless PyQt6 desktop application engineered for Discord chan
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yuvi123se/mr-clan-terminal.git
-cd mr-clan-terminal
+git clone https://github.com/yuvi123se/mr-sb.git
+cd mr-sb
